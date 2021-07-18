@@ -73,5 +73,5 @@ function buttonFlash (currentKey) {
 
     setTimeout (function () {
         activeButton.classList.remove("pressed");
-    }, 100);
+    }, 1000);
 }
